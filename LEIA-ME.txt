@@ -1,0 +1,16 @@
+=====================================================
+PACOTE DE PÁGINA CLONADA - FLUXOOFFER
+=====================================================
+Página Original: https://futsalinterativoinfantil.lovable.app/
+Título: Futsal Interativo Infantil | 200 treinos lúdicos de 2 a 13 anos
+Data de Clonagem: 05/10/2026, 17:20:46
+CSS Baixados: 2
+Imagens Baixadas: 15
+
+COMO USAR ESTA PÁGINA:
+1. Abra o arquivo 'index.html' no seu navegador ou editor de código.
+2. Todos os estilos e imagens foram salvos localmente nas pastas 'css/' e 'images/'.
+3. Para colocar no ar:
+   - Envie todos os arquivos e pastas para sua hospedagem (WordPress, Hostinger, Vercel, Cloudflare Pages ou cPanel).
+4. IMPORTANTE: Altere os botões de compra/checkout para o seu link próprio!
+=====================================================
